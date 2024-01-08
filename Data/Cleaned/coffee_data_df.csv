@@ -1,4 +1,4 @@
-Country,City,Latitude,Longitude,Coffee type,Years,Total Production,Global Price of Arabica Coffee (US cents per a lb),Global Price of Robusta Coffee (US cents per a lb),Oceanic Nino Index,El Nino or La Nina Year,Magnitude
+Country,City,Latitude,Longitude,Coffee type,Years,Total Production,Global Price of Arabica Coffee (US cents per a lb),Global Price of Robusta Coffee (US cents per a lb),Oceanic Index,El Nino or La Nina Year,Magnitude
 Angola,Bailundo,-12.165,15.3694,Robusta/Arabica,1990,3000000.0,89.15,54.99,0.375,El Nino,Neutral
 Bolivia,Coroico,-16.1889,-67.7273,Arabica,1990,7380000.0,89.15,54.99,0.375,El Nino,Neutral
 Brazil,Poços de Caldas,-21.78,-46.5692,Arabica/Robusta,1990,1637160000.0,89.15,54.99,0.375,El Nino,Neutral

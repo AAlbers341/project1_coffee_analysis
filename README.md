@@ -14,18 +14,18 @@ Analyze how coffee prices have shown significant variation over the years, influ
 * Evaluate the correlation between El Nino/La Nina patterns and their effect on different types of coffee.
 * Identify the countries that have been most impacted by irregular El Nino/La Nina patterns and how this meteorological phenomena has influenced production outputs.
 ### Key Findings
-* Production data emphasizes the dominance of certain countries in coffee production, particularly Brazil.
-* The correlation between coffee prices and the Oceanic Index suggests that while meteorological conditions may have some impact on coffee prices, they are likely not the sole influencing factor.
-* Arabica coffee generally has a higher price than Robusta.
-* The price of Arabica coffee beans shows more volatility over the years compared to Robusta.
-* There are notable peaks in Arabica prices around the years 1997, 2022, and 2011 which is the highest on the graph.
-* For Robusta, the prices also peaked around 1995 and 2011 but are less pronounced than Arabica's peaks.
-### Table of Contents - IN PROGRESS
-1. [Tech Stack](# )
-3. [Data Sources](# )
-4. [Background](# )
-5. [What is El Nino and La Nina?](# )
-6. [EDA Notebooks](# )
+* Production **data emphasizes the dominance of certain countries in coffee production, particularly Brazil**.
+* The **correlation between coffee prices and the Oceanic Index suggests that while meteorological conditions may have some impact on coffee prices, they are likely _not_ the sole influencing factor**.
+* **Arabica** coffee generally has a higher price than **Robusta**.
+* The price of Arabica coffee beans shows more **volatility** over the years compared to Robusta.
+* There are **notable peaks** in **Arabica** prices around the years **1997, 2022, and 2011** which is the highest on the graph.
+* For **Robusta**, the prices also **peaked** around **1995 and 2011** but are less pronounced than Arabica's peaks.
+### Table of Contents
+1. [Tech Stack](#1-tech-stack)
+3. [Data Sources](#2-data-sources)
+4. [Background](#3-background)
+5. [What is El Nino and La Nina?](#4-what-is-el-nino-and-la-nina)
+6. [EDA Notebooks](#5-eda-notebooks)
 
 ### 1. Tech Stack
 | Python Library  | Usage |
@@ -36,21 +36,21 @@ Analyze how coffee prices have shown significant variation over the years, influ
 | ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/76cae272-4bcc-4ab2-a376-880cd1d28190) | High-level plotting API   |
 | ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/3e7c0369-6e67-4080-81bc-ee7d214f80c0) |  Scientific and technical computing  |
 
-### 2. Data Sources - IN PROGRESS
+### 2. Data Sources
 | Data Source  | Usage |
 | ------------- | ------------- |
-| [Arabica Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFOTMUSDM)  | Content Cell  |
-| [Robusta Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFROBUSDM)  | Content Cell  |
-| [Coffee Dataset - Kaggle](https://www.kaggle.com/datasets/michals22/coffee-dataset)  | Content Cell  |
-| [Encyclopedia Britannica](https://www.britannica.com/technology/regenerative-agriculture)  | Content Cell  |
-| [El Nino & La Nina Dataset - Kaggle](https://www.kaggle.com/datasets/bhaskar100/elnino-lanina)  | Content Cell  |
-| [Golden Gate Weather Services](https://ggweather.com/enso/oni.htm)  | Content Cell  |
-| [City Weather Coordinates]()  | Content Cell  |
+| [Arabica Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFOTMUSDM)  | Coffee prices since 1990s to present day for Arabica  |
+| [Robusta Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFROBUSDM)  | Coffee prices since 1990s to present day for Robusta  |
+| [Coffee Dataset - Kaggle](https://www.kaggle.com/datasets/michals22/coffee-dataset)  | Coffee production by country since 1990s  |
+| [Encyclopedia Britannica](https://www.britannica.com/technology/regenerative-agriculture)  | General cultivation requirements for coffee beans  |
+| [El Nino & La Nina Dataset - Kaggle](https://www.kaggle.com/datasets/bhaskar100/elnino-lanina)  |  Weather prediction of El Nino or La Nina year since 1950s  |
+| [Golden Gate Weather Services](https://ggweather.com/enso/oni.htm)  | Oceanic El Nino/La Nina index values since 1950s  |
+| [City Weather Coordinates](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/Data/Raw/coffee_cities_coordinates.csv)  | Coordinates of coffee-producing cities |
 
 ### 3. Background
 Coffee, a staple in the morning routine of 63% of Americans, is influenced by shifting oceanic patterns. This change raises questions about the fluctuating coffee prices in the top 10 coffee-producing nations. Analyzing global coffee prices extends beyond a single commodity; it offers a window into the complex interaction between economic and environmental dynamics. 
 
-Key factors in growing coffee plants is temperature, rainfall, and elevation:
+Key factors in growing coffee plants is **temperature, rainfall, and elevation**:
 
 **Arabica**
 * Temp: 73°F – 82°F; does not tolerate heat, does not thrive if temps vary much outside of given range 
@@ -82,6 +82,12 @@ SOURCE: [(_coffee_production.ipynb_)](https://github.com/AAlbers341/project1_cof
 
 SOURCE: [(_coffee_production.ipynb_)](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/EDA/coffee_production.ipynb)
 
+##### Yearly Average Production by Country
+
+![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/7c2af583-2867-4e59-96ef-083a3a08748f)
+
+SOURCE: [(_coffee_production.ipynb_)](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/EDA/coffee_production.ipynb)
+
 #### 5.2 El Nino/La Nina Analysis
 Our analysis reveals that between 1990 and 2017, El Nino and La Nina events had a predominant share of neutral years regarding oceanic temperatures. **El Nino exhibited a 30% occurrence rate with weak intensity, while La Nina showed a 14% occurrence with moderate intensity**. This analysis is crucial in understanding the climatic influences on agricultural outputs, including coffee.
 
@@ -102,9 +108,10 @@ This  analysis investigates the relationship between El Nino/La Nina patterns an
 SOURCE: ([_coffee_data_merged.ipynb_)](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/EDA/coffee_data_merged.ipynb)
 
 #### 5.4 Coffee Prices
-The notebook offers an exploration of Arabica and Robusta coffee prices from 1990 to 2023. **It highlights that Arabica coffee is historically pricier than Robusta, with Arabica prices ranging from $61.46 to $271.11 per lb and Robusta prices fluctuating between $27.51 and $125.56 per lb**. The analysis points out significant price shifts, notably a decrease in the late 1990s, a bottoming out in 2002, and a rise into 2006, with exponential growth for Arabica in 2011. These trends provide insights into market behavior and pricing dynamics over more than three decades.
+The notebook illustrates the price fluctuations of Arabica and Robusta coffee from 1990 to 2017, with Arabica prices consistently outpacing Robusta. Arabica also demonstrates greater volatility, peaking dramatically around 2011 at over $2.50 per lb, whereas Robusta's peak at the same period is markedly lower. **The average prices over these years sit at $1.29 for Arabica and $0.74 for Robusta, emphasizing the premium placed on Arabica beans.** Both varieties show a general recovery in prices after early lows, with Arabica's lowest near the early 1990s and around 2001, while Robusta's is before 2004. Towards the end of the observed period, a general decline in prices is visible, although Arabica experiences a slight uptick by 2017. 
 
-![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/6391e76f-2633-446d-ac23-e6471f3e3818)
+![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/4f314b11-3f67-4721-bf7c-156349f0f250)
+
 
 SOURCE: [(_coffee_prices.ipynb_)](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/EDA/coffee_prices.ipynb)
 

@@ -14,18 +14,19 @@ Analyze how coffee prices have shown significant variation over the years, influ
 * Evaluate the correlation between El Nino/La Nina patterns and their effect on different types of coffee.
 * Identify the countries that have been most impacted by irregular El Nino/La Nina patterns and how this meteorological phenomena has influenced production outputs.
 ### Key Findings
-* Production **data emphasizes the dominance of certain countries in coffee production, particularly Brazil**.
-* The **correlation between coffee prices and the Oceanic Index suggests that while meteorological conditions may have some impact on coffee prices, they are likely _not_ the sole influencing factor**.
-* **Arabica** coffee generally has a higher price than **Robusta**.
-* The price of Arabica coffee beans shows more **volatility** over the years compared to Robusta.
-* There are **notable peaks** in **Arabica** prices around the years **1997, 2022, and 2011** which is the highest on the graph.
-* For **Robusta**, the prices also **peaked** around **1995 and 2011** but are less pronounced than Arabica's peaks.
+* Production data emphasizes the dominance of certain countries in coffee production, particularly Brazil.
+* The correlation between coffee prices and the Oceanic Index suggests that while meteorological conditions may have some impact on coffee prices, they are likely _not_ the sole influencing factor.
+* Arabica coffee generally has a higher price than Robusta.
+* The price of Arabica coffee beans shows more volatility over the years compared to Robusta.
+* There are notable peaks in Arabica prices around the years 1997, 2022, and 2011 which is the highest on the graph.
+* For Robusta, the prices also peaked around 1995 and 2011 but are less pronounced than Arabica's peaks.
 ### Table of Contents
 1. [Tech Stack](#1-tech-stack)
-3. [Data Sources](#2-data-sources)
-4. [Background](#3-background)
-5. [What is El Nino and La Nina?](#4-what-is-el-nino-and-la-nina)
-6. [EDA Notebooks](#5-eda-notebooks)
+2. [Data Sources](#2-data-sources)
+3. [Background](#3-background)
+4. [What is El Nino and La Nina?](#4-what-is-el-nino-and-la-nina)
+5. [EDA Notebooks](#5-eda-notebooks)
+6. [Conclusion](#6-Conclusion)
 
 ### 1. Tech Stack
 | Python Library  | Usage |
@@ -53,15 +54,15 @@ Coffee, a staple in the morning routine of 63% of Americans, is influenced by sh
 Key factors in growing coffee plants is **temperature, rainfall, and elevation**:
 
 **Arabica**
-* Temp: 73°F – 82°F; does not tolerate heat, does not thrive if temps vary much outside of given range 
-* Rainfall: 60-80 inches per year, with a dry period of 2-3 months
-* Elevation: 2000-6500 ft
+* **Temp:** 73°F – 82°F; does not tolerate heat, does not thrive if temps vary much outside of given range 
+* **Rainfall:** 60-80 inches per year, with a dry period of 2-3 months
+* **Elevation:** 2000-6500 ft
 * Very temperamental if weather varies outside of the given ranges
 
 **Robusta**
-* Temp: 75.2°F-86°F; is heat tolerant
-* Rainfall: 60-80 inches per year, with a dry period of 2-3 months
-* Elevation: sea level to 600-1970 ft
+* **Temp:** 75.2°F-86°F; is heat tolerant
+* **Rainfall:** 60-80 inches per year, with a dry period of 2-3 months
+* **Elevation:** sea level to 600-1970 ft
 * Tougher, hardier plant overall – much more forgiving when weather is outside of the given parameters
 ### 4. What is El Nino and La Nina?
 El Nino and La Nina are part of a natural climatter pattern that occurs in the Pacific Ocean, affecting weather across the globe. 
@@ -112,8 +113,17 @@ The notebook illustrates the price fluctuations of Arabica and Robusta coffee fr
 
 ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/4f314b11-3f67-4721-bf7c-156349f0f250)
 
-
 SOURCE: [(_coffee_prices.ipynb_)](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/EDA/coffee_prices.ipynb)
+
+#### 5.5 Coffee Species Location by Country
+The dot map visualizes the global distribution and production output levels of coffee species, with dots sizes indicating production volume and colors distinguishing between Arabica (blue), Robusta (green), and Arabica/Robusta (orange). **The largest bubbles are in South America and South East Asia**, which are regions that have the highest output levels for coffee production. Smaller production volumes are indicated by smaller bubbles in Central America and scattered across Africa. 
+
+![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/73a07026-cbf4-4aa1-b592-14e45381da7f)
+
+SOURCE: [(_DA Project 1 Presentation_)](https://docs.google.com/presentation/d/12hQMXLd9lk7Ea1zWZkNdEmJW424H0HtRnmNWWuCnCb8/edit#slide=id.g2ad83fcf0fa_0_17)
+
+#### 6. Conclusion
+
 
 
 

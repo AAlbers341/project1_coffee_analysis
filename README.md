@@ -20,7 +20,7 @@ Analyze how coffee prices have shown significant variation over the years, influ
 * The price of Arabica coffee beans shows more volatility over the years compared to Robusta.
 * There are notable peaks in Arabica prices around the years 1997, 2022, and 2011 which is the highest on the graph.
 * For Robusta, the prices also peaked around 1995 and 2011 but are less pronounced than Arabica's peaks.
-### Table of Contents
+### Table of Contents - IN PROGRESS
 1. [Tech Stack](# 1. Tech Stack)
 3. [Data Sources] (# )
 4. [Background](# )
@@ -36,7 +36,7 @@ Analyze how coffee prices have shown significant variation over the years, influ
 | ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/76cae272-4bcc-4ab2-a376-880cd1d28190) | High-level plotting API   |
 | ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/3e7c0369-6e67-4080-81bc-ee7d214f80c0) |  Scientific and technical computing  |
 
-### 2. Data Sources
+### 2. Data Sources - IN PROGRESS
 | Data Source  | Usage |
 | ------------- | ------------- |
 | FRED Economic Data - St. Louis FED  | Content Cell  |

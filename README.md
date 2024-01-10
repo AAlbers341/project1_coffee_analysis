@@ -21,11 +21,11 @@ Analyze how coffee prices have shown significant variation over the years, influ
 * There are notable peaks in Arabica prices around the years 1997, 2022, and 2011 which is the highest on the graph.
 * For Robusta, the prices also peaked around 1995 and 2011 but are less pronounced than Arabica's peaks.
 ### Table of Contents - IN PROGRESS
-1. [Tech Stack](# 1. Tech Stack)
-3. [Data Sources] (# )
+1. [Tech Stack](# )
+3. [Data Sources](# )
 4. [Background](# )
-5. [What is El Nino and La Nina?] (# )
-6. [EDA Notebooks] (# )
+5. [What is El Nino and La Nina?](# )
+6. [EDA Notebooks](# )
 
 ### 1. Tech Stack
 | Python Library  | Usage |
@@ -39,11 +39,12 @@ Analyze how coffee prices have shown significant variation over the years, influ
 ### 2. Data Sources - IN PROGRESS
 | Data Source  | Usage |
 | ------------- | ------------- |
-| FRED Economic Data - St. Louis FED  | Content Cell  |
-| Coffee Dataset - Kaggle  | Content Cell  |
-| El Nino & La Nina Dataset - Kaggle  | Content Cell  |
-| Golden Gate Weather Services  | Content Cell  |
-| City Weather Coordinates  | Content Cell  |
+| [Arabica Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFOTMUSDM)  | Content Cell  |
+| [Robusta Coffee Dataset - St. Louis FED]  | Content Cell  |
+| [Coffee Dataset - Kaggle]  | Content Cell  |
+| [El Nino & La Nina Dataset - Kaggle]  | Content Cell  |
+| [Golden Gate Weather Services]  | Content Cell  |
+| [City Weather Coordinates]  | Content Cell  |
 
 ### 3. Background
 Coffee, a staple in the morning routine of 63% of Americans, is influenced by shifting oceanic patterns. This change raises questions about the fluctuating coffee prices in the top 10 coffee-producing nations. Analyzing global coffee prices extends beyond a single commodity; it offers a window into the complex interaction between economic and environmental dynamics. 

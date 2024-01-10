@@ -14,12 +14,12 @@ Analyze how coffee prices have shown significant variation over the years, influ
 * Evaluate the correlation between El Nino/La Nina patterns and their effect on different types of coffee.
 * Identify the countries that have been most impacted by irregular El Nino/La Nina patterns and how this meteorological phenomena has influenced production outputs.
 ### Key Findings
-* Production data emphasizes the dominance of certain countries in coffee production, particularly Brazil.
-* The correlation between coffee prices and the Oceanic Index suggests that while meteorological conditions may have some impact on coffee prices, they are likely not the sole influencing factor.
-* Arabica coffee generally has a higher price than Robusta.
-* The price of Arabica coffee beans shows more volatility over the years compared to Robusta.
-* There are notable peaks in Arabica prices around the years 1997, 2022, and 2011 which is the highest on the graph.
-* For Robusta, the prices also peaked around 1995 and 2011 but are less pronounced than Arabica's peaks.
+* Production **data emphasizes the dominance of certain countries in coffee production, particularly Brazil**.
+* The **correlation between coffee prices and the Oceanic Index suggests that while meteorological conditions may have some impact on coffee prices, they are likely _not_ the sole influencing factor**.
+* **Arabica** coffee generally has a higher price than **Robusta**.
+* The price of Arabica coffee beans shows more **volatility** over the years compared to Robusta.
+* There are **notable peaks** in **Arabica** prices around the years **1997, 2022, and 2011** which is the highest on the graph.
+* For **Robusta**, the prices also **peaked** around **1995 and 2011** but are less pronounced than Arabica's peaks.
 ### Table of Contents
 1. [Tech Stack](#1-tech-stack)
 3. [Data Sources](#2-data-sources)
@@ -79,6 +79,12 @@ SOURCE: [(_coffee_production.ipynb_)](https://github.com/AAlbers341/project1_cof
 
 ##### Top 10 Coffee Producing Countries
 ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/782fb843-7072-43e6-a223-51527ebff782)
+
+SOURCE: [(_coffee_production.ipynb_)](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/EDA/coffee_production.ipynb)
+
+##### Yearly Average Production by Country
+
+![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/7c2af583-2867-4e59-96ef-083a3a08748f)
 
 SOURCE: [(_coffee_production.ipynb_)](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/EDA/coffee_production.ipynb)
 

@@ -102,7 +102,7 @@ This  analysis investigates the relationship between El Nino/La Nina patterns an
 **The graph Arabica Coffee Price vs. El Nino Index below serves as an example of the Coffee Data Merged Notebook analysis**. It shows a scatter plot with Arabica coffee prices (in US cents per pound) on the X-axis and the El Nino index on the Y-axis. A regression line is plotted through the data points.
 
 
-**Implications:** _The r-value is 0.33391089859185084_, indicates a _moderate positive correlation_ between Arabica coffee prices and the El Nino index. This suggests that as the El Nino index increases, there is a tendency for the prices of Arabica coffee to also increase.  It could be that El Nino conditions lead to decreased production and hence higher prices, or it could be that other factors are influencing both the El Nino index and coffee prices.
+**Implications:** _The r-value is 0.33391089859185084_, indicates a _moderate positive correlation_ between Arabica coffee prices and the El Nino index. **This suggests that as the El Nino index increases, there is a tendency for the prices of Arabica coffee to also increase**. It could be that El Nino conditions lead to decreased production and hence higher prices, or it could be that other factors are influencing both the El Nino index and coffee prices.
 
 ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/7be35f7c-0897-4cfb-830e-214282ce6cbb)
 
@@ -123,3 +123,4 @@ The dot map visualizes the global distribution and production output levels of c
 SOURCE: [(_DA Project 1 Presentation_)](https://docs.google.com/presentation/d/12hQMXLd9lk7Ea1zWZkNdEmJW424H0HtRnmNWWuCnCb8/edit#slide=id.g2ad83fcf0fa_0_17)
 
 ### 6. Conclusion
+IN PROGRESS

@@ -26,7 +26,7 @@ Analyze how coffee prices have shown significant variation over the years, influ
 3. [Background](#3-background)
 4. [What is El Nino and La Nina?](#4-what-is-el-nino-and-la-nina)
 5. [EDA Notebooks](#5-eda-notebooks)
-6. [Conclusion](#6-Conclusion)
+6. [Conclusion](#6-conclusion)
 
 ### 1. Tech Stack
 | Python Library  | Usage |
@@ -122,8 +122,4 @@ The dot map visualizes the global distribution and production output levels of c
 
 SOURCE: [(_DA Project 1 Presentation_)](https://docs.google.com/presentation/d/12hQMXLd9lk7Ea1zWZkNdEmJW424H0HtRnmNWWuCnCb8/edit#slide=id.g2ad83fcf0fa_0_17)
 
-#### 6. Conclusion
-
-
-
-
+### 6. Conclusion

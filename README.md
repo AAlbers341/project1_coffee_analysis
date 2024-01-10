@@ -123,4 +123,4 @@ The dot map visualizes the global distribution and production output levels of c
 SOURCE: [(_DA Project 1 Presentation_)](https://docs.google.com/presentation/d/12hQMXLd9lk7Ea1zWZkNdEmJW424H0HtRnmNWWuCnCb8/edit#slide=id.g2ad83fcf0fa_0_17)
 
 ### 6. Conclusion
-IN PROGRESS
+Our analysis offer a comprehensive exploration of various aspects of the coffee industry and climate phenomena, specifically focusing on coffee production, prices, and the influence of El Nino and La Nina. 

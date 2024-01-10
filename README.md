@@ -21,11 +21,11 @@ Analyze how coffee prices have shown significant variation over the years, influ
 * There are notable peaks in Arabica prices around the years 1997, 2022, and 2011 which is the highest on the graph.
 * For Robusta, the prices also peaked around 1995 and 2011 but are less pronounced than Arabica's peaks.
 ### Table of Contents
-1. [Tech Stack](#https://github.com/AAlbers341/project1_coffee_analysis/tree/main#1-tech-stack)
-3. [Data Sources](#https://github.com/AAlbers341/project1_coffee_analysis/tree/main#2-data-sources---in-progress)
-4. [Background](#https://github.com/AAlbers341/project1_coffee_analysis/tree/main#3-background)
-5. [What is El Nino and La Nina?](#https://github.com/AAlbers341/project1_coffee_analysis/tree/main#4-what-is-el-nino-and-la-nina)
-6. [EDA Notebooks](#https://github.com/AAlbers341/project1_coffee_analysis/tree/main#5-eda-notebooks)
+1. [Tech Stack](#1-tech-stack)
+3. [Data Sources](#2-data-sources)
+4. [Background](#3-background)
+5. [What is El Nino and La Nina?](#4-what-is-el-nino-and-la-nina)
+6. [EDA Notebooks](#5-eda-notebooks)
 
 ### 1. Tech Stack
 | Python Library  | Usage |
@@ -36,14 +36,14 @@ Analyze how coffee prices have shown significant variation over the years, influ
 | ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/76cae272-4bcc-4ab2-a376-880cd1d28190) | High-level plotting API   |
 | ![image](https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/3e7c0369-6e67-4080-81bc-ee7d214f80c0) |  Scientific and technical computing  |
 
-### 2. Data Sources - IN PROGRESS
+### 2. Data Sources
 | Data Source  | Usage |
 | ------------- | ------------- |
 | [Arabica Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFOTMUSDM)  | Coffee prices since 1990s to present day for Arabica  |
 | [Robusta Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFROBUSDM)  | Coffee prices since 1990s to present day for Robusta  |
 | [Coffee Dataset - Kaggle](https://www.kaggle.com/datasets/michals22/coffee-dataset)  | Coffee production by country since 1990s  |
 | [Encyclopedia Britannica](https://www.britannica.com/technology/regenerative-agriculture)  | General cultivation requirements for coffee beans  |
-| [El Nino & La Nina Dataset - Kaggle](https://www.kaggle.com/datasets/bhaskar100/elnino-lanina)  |  Weather Prediction of El Nino or La Nina year since 1950s  |
+| [El Nino & La Nina Dataset - Kaggle](https://www.kaggle.com/datasets/bhaskar100/elnino-lanina)  |  Weather prediction of El Nino or La Nina year since 1950s  |
 | [Golden Gate Weather Services](https://ggweather.com/enso/oni.htm)  | Oceanic El Nino/La Nina index values since 1950s  |
 | [City Weather Coordinates](https://github.com/AAlbers341/project1_coffee_analysis/blob/main/Data/Raw/coffee_cities_coordinates.csv)  | Coordinates of coffee-producing cities |
 

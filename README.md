@@ -2,24 +2,24 @@
   <img width="400" height="400" src="https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/e9f9f422-f019-46ba-9148-bd1f56829aaf">
 </p>
 
-# El Nino/La Nina impacts on Global Coffee Prices and Production
+# El Nino/La Nina impacts on Global Coffee Prices and Production :coffee:
 ### Purpose
-Analyze how coffee prices have shown significant variation over the years, influenced by a variety of factors including market dynamics and possibly meteorological phenomena like El Nino and La Nina.  ​
+Analyze how **coffee prices** have shown significant variation over the years, influenced by a variety of factors including market dynamics and possibly meteorological phenomena like **El Nino and La Nina**.  ​
 ### Key Objectives
-* Identify coffee producing countries and top 10 producers.
-* Compute total and yearly average production.
-* Display Arabica and Robusta coffee prices fluctuation over the years.
-* From coffee producing countries, how has El Nino/La Nina patterns impacted coffee prices?
-* Show the correlation coefficient between yearly average coffee price and El Nino/La Nina patterns and their effect on coffee prices.
-* Evaluate the correlation between El Nino/La Nina patterns and their effect on different types of coffee.
-* Identify the countries that have been most impacted by irregular El Nino/La Nina patterns and how this meteorological phenomena has influenced production outputs.
+* Identify **coffee producing countries** and top 10 producers.
+* Compute total and yearly average **production**.
+* Display **Arabica** and **Robusta** coffee prices fluctuation over the years.
+* From coffee producing countries, how has **El Nino/La Nina patterns** impacted coffee prices?
+* Show the c**orrelation coefficient** between yearly average coffee price and El Nino/La Nina patterns and their effect on coffee prices.
+* Evaluate the **correlation** between El Nino/La Nina patterns and their effect on different types of coffee.
+* Identify the **countries** that have been most impacted by irregular **El Nino/La Nina** patterns and how this meteorological phenomena has influenced production outputs.
 ### Key Findings
-* Production data emphasizes the dominance of certain countries in coffee production, particularly Brazil.
-* The correlation between coffee prices and the Oceanic Index suggests that while meteorological conditions may have some impact on coffee prices, they are likely _not_ the sole influencing factor.
-* Arabica coffee generally has a higher price than Robusta.
-* The price of Arabica coffee beans shows more volatility over the years compared to Robusta.
-* There are notable peaks in Arabica prices around the years 1997, 2022, and 2011 which is the highest on the graph.
-* For Robusta, the prices also peaked around 1995 and 2011 but are less pronounced than Arabica's peaks.
+* Production data emphasizes the **dominance** of certain countries in coffee production, particularly **Brazil**.
+* The **correlation** between **coffee prices** and the **Oceanic Index** suggests that while meteorological conditions may have some impact on coffee prices, they are likely **_not_** the sole influencing factor.
+* **Arabica** coffee generally has a higher **price** than **Robusta**.
+* The price of Arabica coffee beans shows more **volatility** over the years compared to Robusta.
+* There are notable **peaks** in **Arabica** prices around the **years** 1997, 2022, and 2011 which is the highest on the graph.
+* For **Robusta**, the prices also **peaked** around 1995 and 2011 but are less pronounced than Arabica's peaks.
 ### Table of Contents
 1. [Tech Stack](#1-tech-stack)
 2. [Data Sources](#2-data-sources)
@@ -123,4 +123,4 @@ The dot map visualizes the global distribution and production output levels of c
 SOURCE: [(_DA Project 1 Presentation_)](https://docs.google.com/presentation/d/12hQMXLd9lk7Ea1zWZkNdEmJW424H0HtRnmNWWuCnCb8/edit#slide=id.g2ad83fcf0fa_0_17)
 
 ### 6. Conclusion
-Our analysis offer a comprehensive exploration of various aspects of the coffee industry and climate phenomena, specifically focusing on coffee production, prices, and the influence of El Nino and La Nina. 
+Our analysis offers a comprehensive exploration of various aspects of the **coffee** industry and climate phenomena, specifically focusing on coffee production, prices, and the influence of **El Nino and La Nina**. While the insights gained from these analyses are invaluable for understanding the complex dynamics of the **global coffee market** and the interplay between **environmental factors** and agricultural production, the **correlation** between Arabica and Robusta **coffee prices** and the **Oceanic Index** (El Nino and La Nina) suggests that while meteorological conditions may have some impact on coffee prices, they are likely **_not_** the sole influencing factor.

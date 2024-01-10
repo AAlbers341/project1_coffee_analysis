@@ -40,11 +40,12 @@ Analyze how coffee prices have shown significant variation over the years, influ
 | Data Source  | Usage |
 | ------------- | ------------- |
 | [Arabica Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFOTMUSDM)  | Content Cell  |
-| [Robusta Coffee Dataset - St. Louis FED]  | Content Cell  |
-| [Coffee Dataset - Kaggle]  | Content Cell  |
-| [El Nino & La Nina Dataset - Kaggle]  | Content Cell  |
-| [Golden Gate Weather Services]  | Content Cell  |
-| [City Weather Coordinates]  | Content Cell  |
+| [Robusta Coffee Dataset - St. Louis FED](https://fred.stlouisfed.org/series/PCOFFROBUSDM)  | Content Cell  |
+| [Coffee Dataset - Kaggle](https://www.kaggle.com/datasets/michals22/coffee-dataset)  | Content Cell  |
+| [Encyclopedia Britannica](https://www.britannica.com/technology/regenerative-agriculture)  | Content Cell  |
+| [El Nino & La Nina Dataset - Kaggle](https://www.kaggle.com/datasets/bhaskar100/elnino-lanina)  | Content Cell  |
+| [Golden Gate Weather Services](https://ggweather.com/enso/oni.htm)  | Content Cell  |
+| [City Weather Coordinates]()  | Content Cell  |
 
 ### 3. Background
 Coffee, a staple in the morning routine of 63% of Americans, is influenced by shifting oceanic patterns. This change raises questions about the fluctuating coffee prices in the top 10 coffee-producing nations. Analyzing global coffee prices extends beyond a single commodity; it offers a window into the complex interaction between economic and environmental dynamics. 
